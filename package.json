@@ -1,0 +1,27 @@
+{
+  "name": "perpskit-cdn",
+  "version": "1.0.0",
+  "description": "PerpsKit CDN Distribution - Perpetual futures trading widget",
+  "main": "widget.iife.js",
+  "jsdelivr": "widget.iife.js",
+  "unpkg": "widget.iife.js",
+  "files": [
+    "widget.iife.js",
+    "README.md"
+  ],
+  "keywords": [
+    "perpskit",
+    "perpetual",
+    "futures", 
+    "trading",
+    "widget",
+    "cdn",
+    "hyperliquid"
+  ],
+  "homepage": "https://hyperliquid.xyz",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:perpskit/perpskit-cdn.git"
+  },
+  "license": "MIT"
+}
