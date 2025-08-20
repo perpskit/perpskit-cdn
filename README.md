@@ -5,11 +5,13 @@ This repository contains the built distribution files for PerpsKit - a perpetual
 ## 🚀 CDN Usage
 
 ### jsDelivr (Recommended)
+
 ```html
 <script src="https://cdn.jsdelivr.net/gh/perpskit/perpskit-cdn@v1.0.0/widget.iife.js"></script>
 ```
 
 ### Direct GitHub
+
 ```html
 <script src="https://github.com/perpskit/perpskit-cdn/releases/download/v1.0.0/widget.iife.js"></script>
 ```
@@ -24,7 +26,7 @@ This repository contains the built distribution files for PerpsKit - a perpetual
     builder: 'your-builder-address',
     theme: 'dark',
     symbol: 'ETH-USD',
-    fee: 0.1
+    fee: 0.1,
   });
 </script>
 ```
