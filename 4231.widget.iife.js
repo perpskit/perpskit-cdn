@@ -1,0 +1,9 @@
+if(void 0===process)var process={env:{NODE_ENV:"production"},browser:!0,version:"",versions:{}};(this.webpackChunkHLWidget=this.webpackChunkHLWidget||[]).push([[4231],{44231:(e,o,r)=>{r.r(o),r.d(o,{chevronBottomSvg:()=>i});const i=r(48422).JW`<svg fill="none" viewBox="0 0 16 16">
+  <path
+    fill="currentColor"
+    fill-rule="evenodd"
+    d="M1.46 4.96a1 1 0 0 1 1.41 0L8 10.09l5.13-5.13a1 1 0 1 1 1.41 1.41l-5.83 5.84a1 1 0 0 1-1.42 0L1.46 6.37a1 1 0 0 1 0-1.41Z"
+    clip-rule="evenodd"
+  />
+</svg>`}}]);
+//# sourceMappingURL=4231.widget.iife.js.map
