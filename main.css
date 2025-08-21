@@ -1,11 +1,77 @@
-if (typeof process === "undefined") { 
-        var process = { 
-          env: { NODE_ENV: "production" }, 
-          browser: true, 
-          version: '', 
-          versions: {} 
-        }; 
-      }
+(function() {
+        if (typeof globalThis !== "undefined") {
+          if (typeof globalThis.process === "undefined") {
+            globalThis.process = {
+              env: { NODE_ENV: "production" },
+              browser: true,
+              version: '',
+              versions: {}
+            };
+          }
+          if (typeof globalThis.require === "undefined") {
+            globalThis.require = function(id) {
+              if (id === "process/browser" || id === "process") {
+                return globalThis.process;
+              }
+              throw new Error("Module not found: " + id);
+            };
+          }
+        }
+        if (typeof window !== "undefined") {
+          if (typeof window.process === "undefined") {
+            window.process = {
+              env: { NODE_ENV: "production" },
+              browser: true,
+              version: '',
+              versions: {}
+            };
+          }
+          if (typeof window.require === "undefined") {
+            window.require = function(id) {
+              if (id === "process/browser" || id === "process") {
+                return window.process;
+              }
+              throw new Error("Module not found: " + id);
+            };
+          }
+        }
+        if (typeof global !== "undefined") {
+          if (typeof global.process === "undefined") {
+            global.process = {
+              env: { NODE_ENV: "production" },
+              browser: true,
+              version: '',
+              versions: {}
+            };
+          }
+          if (typeof global.require === "undefined") {
+            global.require = function(id) {
+              if (id === "process/browser" || id === "process") {
+                return global.process;
+              }
+              throw new Error("Module not found: " + id);
+            };
+          }
+        }
+        if (typeof self !== "undefined") {
+          if (typeof self.process === "undefined") {
+            self.process = {
+              env: { NODE_ENV: "production" },
+              browser: true,
+              version: '',
+              versions: {}
+            };
+          }
+          if (typeof self.require === "undefined") {
+            self.require = function(id) {
+              if (id === "process/browser" || id === "process") {
+                return self.process;
+              }
+              throw new Error("Module not found: " + id);
+            };
+          }
+        }
+      })();
 :root {
   /* Colors - Dark Theme Defaults */
   --pk-color-bg: #121316;
