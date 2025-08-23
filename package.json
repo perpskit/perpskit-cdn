@@ -1,6 +1,6 @@
 {
   "name": "perpskit-cdn",
-  "version": "1.1.13",
+  "version": "1.1.14",
   "description": "PerpsKit CDN Distribution - Perpetual futures trading widget",
   "main": "widget.iife.js",
   "jsdelivr": "widget.iife.js",

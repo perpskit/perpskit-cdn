@@ -129,6 +129,7 @@
 [data-theme='light'] {
   --pk-color-bg: #ffffff;
   --pk-color-surface: #f8f9fb;
+  --pk-color-surface-secondary: #e5e7eb;
   --pk-color-surface-tertiary: #e2e8f0;
   --pk-color-text: #202326;
   --pk-color-text-secondary: #58606b;
