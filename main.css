@@ -78,6 +78,7 @@
   --pk-color-bg: #121316;
   --pk-color-surface: #1e1f24;
   --pk-color-surface-secondary: #2e2f34;
+  --pk-color-surface-tertiary: #3e3f44;
   --pk-color-text: #f3f4f8;
   --pk-color-text-secondary: #9ca3af;
   --pk-color-accent: #6684ff;
@@ -128,6 +129,7 @@
 [data-theme='light'] {
   --pk-color-bg: #ffffff;
   --pk-color-surface: #f8f9fb;
+  --pk-color-surface-tertiary: #e2e8f0;
   --pk-color-text: #202326;
   --pk-color-text-secondary: #58606b;
   --pk-color-accent: #4f70ff;
