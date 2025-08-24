@@ -1,0 +1,19 @@
+"use strict";
+/*
+ * ATTENTION: An "eval-source-map" devtool has been used.
+ * This devtool is neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file with attached SourceMaps in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+(this["webpackChunkHLWidget"] = this["webpackChunkHLWidget"] || []).push([[7420],{
+
+/***/ 57420:
+/***/ ((__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) => {
+
+eval("{__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   xSvg: () => (/* binding */ xSvg)\n/* harmony export */ });\n/* harmony import */ var lit__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(48422);\n\nconst xSvg = (0,lit__WEBPACK_IMPORTED_MODULE_0__/* .svg */ .JW) `<svg fill=\"none\" viewBox=\"0 0 41 40\">\n  <g clip-path=\"url(#a)\">\n    <path fill=\"#000\" d=\"M.8 0h40v40H.8z\" />\n    <path\n      fill=\"#fff\"\n      d=\"m22.63 18.46 7.14-8.3h-1.69l-6.2 7.2-4.96-7.2H11.2l7.5 10.9-7.5 8.71h1.7l6.55-7.61 5.23 7.61h5.72l-7.77-11.31Zm-9.13-7.03h2.6l11.98 17.13h-2.6L13.5 11.43Z\"\n    />\n  </g>\n  <defs>\n    <clipPath id=\"a\"><path fill=\"#fff\" d=\"M.8 20a20 20 0 1 1 40 0 20 20 0 0 1-40 0Z\" /></clipPath>\n  </defs>\n</svg>`;\n//# sourceMappingURL=x.js.map//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiNTc0MjAuanMiLCJtYXBwaW5ncyI6Ijs7Ozs7QUFBMEI7QUFDbkIsYUFBYSxrREFBRztBQUN2QjtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0EiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9ITFdpZGdldC8uLi8uLi9ub2RlX21vZHVsZXMvLnBucG0vQHJlb3duK2FwcGtpdC11aUAxLjcuMTdfQHR5cGVzK3JlYWN0QDE5LjEuOF9idWZmZXJ1dGlsQDQuMC45X2VuY29kaW5nQDAuMS4xM19yZWFjdEAxOS4xLjFfdHlwX3lzemp1d3QzZzZiaDc1a3JhM3ZudWIycnh5L25vZGVfbW9kdWxlcy9AcmVvd24vYXBwa2l0LXVpL2Rpc3QvZXNtL3NyYy9hc3NldHMvc3ZnL3guanM/ZWE3ZSJdLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgeyBzdmcgfSBmcm9tICdsaXQnO1xuZXhwb3J0IGNvbnN0IHhTdmcgPSBzdmcgYDxzdmcgZmlsbD1cIm5vbmVcIiB2aWV3Qm94PVwiMCAwIDQxIDQwXCI+XG4gIDxnIGNsaXAtcGF0aD1cInVybCgjYSlcIj5cbiAgICA8cGF0aCBmaWxsPVwiIzAwMFwiIGQ9XCJNLjggMGg0MHY0MEguOHpcIiAvPlxuICAgIDxwYXRoXG4gICAgICBmaWxsPVwiI2ZmZlwiXG4gICAgICBkPVwibTIyLjYzIDE4LjQ2IDcuMTQtOC4zaC0xLjY5bC02LjIgNy4yLTQuOTYtNy4ySDExLjJsNy41IDEwLjktNy41IDguNzFoMS43bDYuNTUtNy42MSA1LjIzIDcuNjFoNS43MmwtNy43Ny0xMS4zMVptLTkuMTMtNy4wM2gyLjZsMTEuOTggMTcuMTNoLTIuNkwxMy41IDExLjQzWlwiXG4gICAgLz5cbiAgPC9nPlxuICA8ZGVmcz5cbiAgICA8Y2xpcFBhdGggaWQ9XCJhXCI+PHBhdGggZmlsbD1cIiNmZmZcIiBkPVwiTS44IDIwYTIwIDIwIDAgMSAxIDQwIDAgMjAgMjAgMCAwIDEtNDAgMFpcIiAvPjwvY2xpcFBhdGg+XG4gIDwvZGVmcz5cbjwvc3ZnPmA7XG4vLyMgc291cmNlTWFwcGluZ1VSTD14LmpzLm1hcCJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///57420\n\n}");
+
+/***/ })
+
+}]);
